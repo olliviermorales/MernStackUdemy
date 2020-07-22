@@ -1,6 +1,0 @@
-{
-  "mongoURI": "mongodb+srv://ollivier123:ollivier123@mernstackudemy-zysiq.mongodb.net/test?retryWrites=true&w=majority",
-  "jwtSecret": "mysecrettoken",
-  "githubClientId": "eea6da53363e98cbd4e7",
-  "githubSecret": "75595d992e6230fa84dfe9427e5c3a97f6be978d"
-}
